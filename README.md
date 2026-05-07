@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OS Scheduling Simulator (Team Ricochet)
 
 Java console simulator for comparing CPU scheduling algorithms using scenarios defined in `src/resources/TestCases.csv`.
@@ -42,3 +43,7 @@ CSV columns: `Scenario,PID,Arrival,Burst,Priority`
 
 ## Report
 Detailed analysis: `report/OS Project Report.pdf`.
+=======
+# CPU-Scheduling-Simulator
+Java simulator implementing 7 CPU scheduling algorithms: FCFS, SJF, Priority (preemptive &amp; non-preemptive), Round Robin, MLQ, and MLFQ
+>>>>>>> 01513138a902f9a3254b9787171adcbd819d879b
